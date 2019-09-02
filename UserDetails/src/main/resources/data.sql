@@ -1,0 +1,5 @@
+Insert into USER values (1,'Arobindh')
+Insert into USER values (2,'Muthu')
+Insert into USER values (3,'FElis')
+Insert into USER values (4,'karhti')
+Insert into USER values (5,'shiva')
