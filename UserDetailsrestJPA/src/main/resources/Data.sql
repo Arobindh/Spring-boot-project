@@ -1,0 +1,5 @@
+Insert into USER values (1,'Arobindh','Spring')
+Insert into USER values (2,'Muthu','ios')
+Insert into USER values (3,'FElis','java')
+Insert into USER values (4,'karhti','boot')
+Insert into USER values (5,'shiva','python')
